@@ -4,32 +4,35 @@ import { categories } from "@/data/articles";
 
 export default function Footer() {
   return (
-    <footer style={{ background: "#111827", color: "#9ca3af", marginTop: "48px" }}>
-      <div className="max-w-6xl mx-auto px-4 py-8">
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
+    <footer style={{ background: "#1a1f2e", color: "#8b95a4", marginTop: 0 }}>
+
+      {/* Main footer */}
+      <div className="max-w-6xl mx-auto px-4 py-10">
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
 
           {/* Brand */}
           <div className="col-span-2 md:col-span-1">
-            <div className="flex items-center gap-2 mb-3">
-              <div className="w-7 h-7 rounded-lg flex items-center justify-center" style={{ background: "var(--green-primary)" }}>
-                <Heart className="w-3.5 h-3.5 text-white fill-white" />
+            <div className="flex items-center gap-2 mb-4">
+              <div className="w-8 h-8 rounded-lg flex items-center justify-center"
+                style={{ background: "linear-gradient(135deg,#0a8f4f,#16a34a)" }}>
+                <Heart className="w-4 h-4 text-white fill-white" strokeWidth={0} />
               </div>
-              <span className="font-black text-white" style={{ letterSpacing: "-0.02em" }}>TipsSehatku</span>
+              <span className="font-black text-white text-base" style={{ letterSpacing: "-0.03em" }}>TipsSehatku</span>
             </div>
             <p className="text-xs leading-relaxed mb-3">
-              Informasi kesehatan terpercaya untuk keluarga Indonesia.
+              Portal kesehatan terpercaya untuk keluarga Indonesia. Informasi berbasis riset, ditulis dan ditinjau oleh tenaga medis.
             </p>
             <p className="text-xs">✉️ info@tipssehatku.com</p>
           </div>
 
           {/* Kategori */}
           <div>
-            <h4 className="text-xs font-bold text-white mb-3 uppercase tracking-wider">Kategori</h4>
-            <ul className="space-y-1.5">
+            <h4 className="text-xs font-bold text-white mb-4 uppercase tracking-widest">Topik</h4>
+            <ul className="space-y-2">
               {categories.map(cat => (
                 <li key={cat.slug}>
                   <Link href={`/kategori/${cat.slug}`}
-                    className="text-xs hover:text-white transition-colors">
+                    className="text-xs hover:text-white transition-colors flex items-center gap-1.5">
                     {cat.icon} {cat.label}
                   </Link>
                 </li>
@@ -39,11 +42,11 @@ export default function Footer() {
 
           {/* Info */}
           <div>
-            <h4 className="text-xs font-bold text-white mb-3 uppercase tracking-wider">Informasi</h4>
-            <ul className="space-y-1.5">
-              {["Tentang Kami", "Tim Penulis", "Panduan Editorial", "Hubungi Kami"].map(item => (
+            <h4 className="text-xs font-bold text-white mb-4 uppercase tracking-widest">Informasi</h4>
+            <ul className="space-y-2">
+              {["Tentang Kami", "Tim Penulis", "Kebijakan Editorial", "Hubungi Kami"].map(item => (
                 <li key={item}>
-                  <a href="/tentang" className="text-xs hover:text-white transition-colors">{item}</a>
+                  <a href="#" className="text-xs hover:text-white transition-colors">{item}</a>
                 </li>
               ))}
             </ul>
@@ -51,20 +54,27 @@ export default function Footer() {
 
           {/* Legal */}
           <div>
-            <h4 className="text-xs font-bold text-white mb-3 uppercase tracking-wider">Legal</h4>
-            <ul className="space-y-1.5">
-              {["Kebijakan Privasi", "Syarat & Ketentuan", "Disclaimer", "Cookie Policy"].map(item => (
+            <h4 className="text-xs font-bold text-white mb-4 uppercase tracking-widest">Legal</h4>
+            <ul className="space-y-2">
+              {["Kebijakan Privasi", "Syarat & Ketentuan", "Disclaimer Medis", "Cookie Policy"].map(item => (
                 <li key={item}>
                   <a href="#" className="text-xs hover:text-white transition-colors">{item}</a>
                 </li>
               ))}
             </ul>
+            <div className="mt-4 p-3 rounded-lg text-xs leading-relaxed"
+              style={{ background: "#252b3b", color: "#8b95a4", borderLeft: "3px solid #0a8f4f" }}>
+              Konten ini hanya untuk informasi. Bukan pengganti saran dokter.
+            </div>
           </div>
         </div>
+      </div>
 
-        <div className="mt-6 pt-5 flex flex-col sm:flex-row items-center justify-between gap-2" style={{ borderTop: "1px solid #1f2937" }}>
-          <p className="text-xs">© 2026 TipsSehatku.com — Hak cipta dilindungi</p>
-          <p className="text-xs">Dibuat dengan ❤️ & <span style={{ color: "#4ade80" }}>Claude AI</span></p>
+      {/* Bottom bar */}
+      <div style={{ borderTop: "1px solid #252b3b" }}>
+        <div className="max-w-6xl mx-auto px-4 py-4 flex flex-col sm:flex-row items-center justify-between gap-2">
+          <p className="text-xs">© 2026 TipsSehatku.com — Hak cipta dilindungi undang-undang</p>
+          <p className="text-xs">Dibangun dengan ❤️ & <span style={{ color: "#4ade80" }}>Claude AI</span></p>
         </div>
       </div>
     </footer>
