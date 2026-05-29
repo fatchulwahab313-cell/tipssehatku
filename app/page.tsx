@@ -18,7 +18,7 @@ export default function HomePage() {
               style={{ background: "rgba(255,255,255,0.15)", color: "rgba(255,255,255,0.9)" }}>
               🏥 Informasi Kesehatan Terpercaya
             </div>
-            <h1 className="text-3xl md:text-4xl font-black text-white mb-3 leading-tight" style={{ letterSpacing: "-0.03em" }}>
+            <h1 className="text-3xl md:text-4xl font-black mb-3 leading-tight" style={{ color: "white", letterSpacing: "-0.03em" }}>
               Tips Sehat untuk<br />Keluarga Indonesia
             </h1>
             <p className="text-green-200 text-sm mb-6 leading-relaxed max-w-lg">
