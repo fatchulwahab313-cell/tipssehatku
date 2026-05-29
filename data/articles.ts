@@ -849,6 +849,145 @@ Ingat, perubahan kecil yang konsisten lebih berdampak daripada perubahan besar y
     image: "/images/postur.jpg",
     featured: true,
   },
+  {
+    slug: "personal-hygiene-pilar-perawatan-kulit-sehari-hari",
+    title: "Personal Hygiene: 7 Pilar Kebersihan Diri untuk Kulit Sehat dan Tubuh Terlindungi",
+    excerpt: "Personal hygiene bukan sekadar soal wangi atau bersih — ini tentang melindungi tubuh dari penyakit, menjaga fungsi kulit, dan meningkatkan kualitas hidup sehari-hari. Panduan lengkap 7 tips kebersihan diri yang wajib diterapkan.",
+    content: `
+Kebersihan diri (personal hygiene) adalah salah satu investasi kesehatan yang paling mudah dilakukan namun sering diabaikan. Lebih dari sekadar penampilan, personal hygiene yang baik adalah pertahanan pertama tubuh terhadap kuman, infeksi, dan berbagai penyakit.
+
+## Apa Itu Personal Hygiene?
+
+Personal hygiene adalah praktik menjaga kebersihan tubuh secara teratur sebagai bagian dari perawatan diri untuk **mencegah penyebaran penyakit dan melindungi kesehatan**. Bagi umat Muslim, personal hygiene juga berkaitan erat dengan konsep thaharah (kesucian) yang menjadi syarat sahnya berbagai ibadah.
+
+## Mengapa Personal Hygiene Sangat Penting?
+
+Personal hygiene yang baik memberikan manfaat berlapis:
+
+- **Mencegah penyebaran kuman** penyebab penyakit
+- **Mengurangi kemungkinan jatuh sakit**
+- **Meningkatkan kepercayaan diri** dalam berinteraksi sosial
+- Memudahkan menjaga kesucian dan **memperlancar ibadah**
+
+## Penyakit yang Berhubungan dengan Kebersihan Diri
+
+Kuman dapat menular melalui: menyentuh orang lain, hewan, atau benda kotor; batuk dan bersin; kontak dengan cairan tubuh; dan pengolahan makanan yang tidak higienis. Akibatnya bisa muncul berbagai penyakit seperti:
+
+- Infeksi pernapasan (flu, COVID-19)
+- Infeksi mata (konjungtivitis, trakoma)
+- Diare
+- Skabies / kudis
+- Karang gigi dan infeksi mulut
+- Infeksi cacing
+
+Selain penyakit, hygiene buruk juga berdampak pada: gangguan tidur, tubuh lemas dan mudah mengantuk, sulit berkonsentrasi, serta kecemasan dan stres.
+
+## Peran Penting Kulit bagi Kesehatan
+
+Kulit bukan sekadar "pembungkus" tubuh. Ia memiliki tiga lapisan utama: **epidermis** (lapisan luar), **dermis** (lapisan dalam), dan **subkutan** (lapisan lemak). Kulit menjalankan fungsi vital:
+
+- Sintesis **vitamin D** yang penting untuk tulang dan imunitas
+- **Pengaturan suhu tubuh** — mencegah hipertermia maupun hipotermia
+- **Keseimbangan cairan & elektrolit** untuk fungsi saraf, otot, dan pembuangan racun
+- **Perlindungan** dari infeksi, sinar UV, dan bahan kimia berbahaya
+
+### Ciri-ciri Kulit yang Sehat
+- Tampak bersih tanpa kotoran
+- Lembab tapi tidak berminyak berlebihan
+- Warna kulit rata dan merata
+- Bebas dari tanda iritasi (kemerahan, gatal, perih)
+- Bebas penyakit kulit
+
+## 7 Tips Personal Hygiene yang Wajib Diterapkan
+
+### 1. Menjaga Kesehatan Gigi dan Mulut
+
+Kesehatan gigi sering dianggap terpisah, padahal sangat mempengaruhi kesehatan tubuh secara keseluruhan.
+
+- **Sikat gigi minimal 2x sehari** dan setelah makan — pastikan menjangkau seluruh permukaan gigi dan lidah
+- Gunakan **sikat gigi berbulu lembut**, ganti setiap 3 bulan
+- Lakukan **flossing (benang gigi)** sekali sehari untuk membersihkan sela-sela yang tidak terjangkau sikat
+- **Kurangi makanan dan minuman manis** — soda, jus kemasan, biskuit, permen
+- **Tidak merokok** — nikotin dan tar merusak email gigi, menyebabkan gigi rapuh dan meningkatkan risiko kanker mulut
+- Periksa ke **dokter gigi setiap 6 bulan** secara rutin
+
+### 2. Menjaga Kebersihan Rambut
+
+- **Keramas minimal 2–3 kali seminggu**; bisa lebih sering jika rambut berminyak, sering beraktivitas di luar, atau berjilbab
+- **Jangan keramas lebih dari 1x sehari** karena dapat merusak kelembaban alami rambut
+- Pijat kulit kepala secara lembut saat keramas — jangan menggaruk keras
+- Pilih **sampo sesuai jenis rambut** (kering, berminyak, berketombe)
+- Keringkan rambut dengan **cara alami** (dibiarkan kering sendiri) atau dengan handuk lembut — hindari hair dryer panas terlalu sering
+- **Jangan berbagi** handuk, jilbab, topi, atau sisir dengan orang lain
+- Bersihkan sisir secara berkala dengan air dan sabun
+
+### 3. Mandi Secara Rutin
+
+- **Mandi 2x sehari** untuk aktivitas normal
+- Jika aktivitas minimal dan tidak banyak berkeringat, 1x sehari di sore hari sudah cukup
+- Gunakan **air suam-suam kuku** — hindari air terlalu panas atau dingin
+- Pilih **sabun lembut berpelembab** — hindari sabun antiseptik karena membunuh kuman baik di kulit
+- Fokuskan sabun di **area lipatan**: ketiak, leher, area intim — jangan menggosok terlalu keras
+- **Keringkan badan dengan lembut** menggunakan handuk bersih
+- Oleskan **pelembab segera setelah mandi** selagi kulit masih sedikit lembab
+
+### 4. Menjaga Kebersihan Tangan
+
+Tangan adalah jalur utama penyebaran kuman. Cuci tangan dengan sabun dan air mengalir:
+
+- Sebelum dan sesudah makan
+- Setelah dari toilet
+- Setelah menyentuh hewan atau benda kotor
+- Setelah bersin atau batuk
+- Sebelum menyentuh wajah
+
+Gosok tangan minimal **20 detik** — mencakup telapak, punggung tangan, sela jari, dan kuku.
+
+### 5. Menjaga Kebersihan Kuku
+
+- **Potong kuku secara rutin** dan jaga tetap pendek
+- Bersihkan kuku setiap kali mencuci tangan
+- **Jangan menggigit kuku** atau mencabut kuku yang patah
+- Oleskan pelembab secara rutin agar kuku tidak mudah rapuh
+- Gunakan **sarung tangan** saat mencuci piring atau baju untuk melindungi kuku dan kulit tangan
+
+### 6. Menjaga Kebersihan Kaki
+
+Kaki sering terlupakan padahal rentan terhadap jamur dan infeksi.
+
+- **Cuci kaki setiap mandi** dengan air hangat dan sabun — bersihkan sela-sela jari kaki
+- **Keringkan kaki hingga benar-benar kering**, terutama sela-sela jari (kelembaban adalah pemicu jamur)
+- Oleskan **pelembab/lotion** pada seluruh permukaan kaki — gunakan petroleum jelly untuk kulit sangat kering, tapi hindari sela jari
+- Ganti **kaos kaki setiap hari**
+- Gunakan **alas kaki dengan ukuran tepat** — tidak terlalu sempit, tidak terlalu longgar
+- Hindari sepatu ujung lancip dan hak terlalu tinggi
+- **Cuci sepatu/sandal** setiap 2–3 minggu, atau lebih cepat jika kotor atau terkena hujan
+
+### 7. Menggunakan Pakaian yang Bersih
+
+- **Pakaian dalam & kaos kaki:** ganti setiap hari atau segera setelah berkeringat
+- **Pakaian luar:** ganti setelah 2–3 hari pemakaian, atau segera jika kotor/bau
+- **Pakaian tidur:** ganti 2–3 kali seminggu
+- Saat mencuci, **pisahkan warna putih, terang, dan gelap** agar tidak luntur
+- Gunakan **air panas untuk seprei, handuk**, dan pakaian yang sangat kotor
+- **Setrika pakaian** secara rutin — panas setrika membantu membunuh kuman
+- Pastikan pakaian **benar-benar kering** sebelum disimpan agar tidak berjamur
+- **Jangan berbagi pakaian** dengan orang lain
+
+## Kesimpulan
+
+Personal hygiene bukan rutinitas yang membebani — ini adalah bentuk penghargaan terhadap diri sendiri dan tanggung jawab terhadap orang-orang di sekitar kita. Dengan menerapkan 7 kebiasaan di atas secara konsisten, kita tidak hanya terhindar dari penyakit, tetapi juga tampil lebih percaya diri dan siap menjalani aktivitas sehari-hari dengan optimal.
+
+**Mulai dari yang termudah:** cuci tangan dengan benar, sikat gigi dua kali sehari, dan mandi teratur. Kebiasaan kecil yang dilakukan konsisten akan membawa dampak besar bagi kesehatan jangka panjang.
+    `.trim(),
+    category: "penyakit",
+    tags: ["kebersihan", "kulit", "hygiene", "kesehatan", "pencegahan", "perawatan diri"],
+    author: "Tim Medis TipsSehatku",
+    date: "2026-05-29",
+    readTime: "9 menit",
+    image: "/images/hygiene.jpg",
+    featured: true,
+  },
 ];
 
 export function getArticleBySlug(slug: string): Article | undefined {
