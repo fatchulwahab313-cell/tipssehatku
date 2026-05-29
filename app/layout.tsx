@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     description: "Portal kesehatan terpercaya untuk keluarga Indonesia.",
   },
   verification: {
-    // google: "XXXXXXXXXXXXXXXX", // ← akan diisi setelah dapat kode dari Search Console
+    google: "google5585f65d852afe31",
   },
   other: {
     "google-adsense-account": "ca-pub-1505871499689560",
