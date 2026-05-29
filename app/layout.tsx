@@ -7,10 +7,29 @@ import FloatingShare from "@/components/FloatingShare";
 
 export const metadata: Metadata = {
   title: { default: "TipsSehatku - Informasi Kesehatan Terpercaya", template: "%s | TipsSehatku" },
-  description: "Temukan tips kesehatan terpercaya, informasi gizi, obat herbal, dan panduan hidup sehat untuk keluarga Indonesia. Ditinjau oleh tenaga medis.",
-  keywords: ["tips kesehatan", "kesehatan indonesia", "gizi", "herbal", "penyakit", "olahraga", "sehat"],
+  description: "Temukan tips kesehatan terpercaya, informasi gizi, obat herbal, dan panduan hidup sehat untuk keluarga Indonesia. Ditinjau oleh tenaga medis berpengalaman.",
+  keywords: ["tips kesehatan", "kesehatan indonesia", "gizi", "herbal", "penyakit", "olahraga", "sehat", "ibu hamil", "mental health", "hipertensi", "diabetes"],
   authors: [{ name: "TipsSehatku" }],
-  openGraph: { siteName: "TipsSehatku", type: "website", locale: "id_ID" },
+  creator: "TipsSehatku",
+  publisher: "TipsSehatku",
+  metadataBase: new URL("https://tipssehatku.com"),
+  alternates: { canonical: "https://tipssehatku.com" },
+  openGraph: {
+    siteName: "TipsSehatku",
+    type: "website",
+    locale: "id_ID",
+    url: "https://tipssehatku.com",
+    title: "TipsSehatku - Informasi Kesehatan Terpercaya",
+    description: "Portal kesehatan terpercaya untuk keluarga Indonesia. 17 artikel berbasis riset ditinjau oleh tenaga medis.",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "TipsSehatku - Informasi Kesehatan Terpercaya",
+    description: "Portal kesehatan terpercaya untuk keluarga Indonesia.",
+  },
+  verification: {
+    // google: "XXXXXXXXXXXXXXXX", // ← akan diisi setelah dapat kode dari Search Console
+  },
   other: {
     "google-adsense-account": "ca-pub-1505871499689560",
   },
