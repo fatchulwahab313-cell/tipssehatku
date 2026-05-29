@@ -48,9 +48,16 @@ export default function Footer() {
         <div>
           <h4 style={{ color: "white", fontSize: "0.88rem", fontWeight: 700, marginBottom: 12 }}>Informasi</h4>
           <ul style={{ listStyle: "none" }}>
-            {["Tentang Kami","Tim Penulis","Panduan Editorial","Kebijakan Privasi","Syarat & Ketentuan","Disclaimer Medis"].map(item => (
-              <li key={item} style={{ marginBottom: 8 }}>
-                <a href="#" className="footer-link">{item}</a>
+            {[
+              { label: "Tentang Kami",      href: "/tentang-kami" },
+              { label: "Tim Penulis",       href: "/tentang-kami" },
+              { label: "Panduan Editorial", href: "/tentang-kami" },
+              { label: "Kebijakan Privasi", href: "/kebijakan-privasi" },
+              { label: "Syarat & Ketentuan",href: "/kebijakan-privasi" },
+              { label: "Disclaimer Medis",  href: "/disclaimer" },
+            ].map(item => (
+              <li key={item.label} style={{ marginBottom: 8 }}>
+                <Link href={item.href} className="footer-link">{item.label}</Link>
               </li>
             ))}
           </ul>
