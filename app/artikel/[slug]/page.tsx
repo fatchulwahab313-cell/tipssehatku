@@ -129,9 +129,9 @@ export default async function ArticlePage({ params }: Props) {
                       return `<p>${line.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')}</p>`;
                     })
                     .join('')
-                    .replace(/<li>.*?<\/li>/gs, m => `<ul>${m}</ul>`)
+                    .replace(/<li>[\s\S]*?<\/li>/g, m => `<ul>${m}</ul>`)
                     .replace(/<\/ul><ul>/g, '')
-                    .replace(/<tr>.*?<\/tr>/gs, m => `<table>${m}</table>`)
+                    .replace(/<tr>[\s\S]*?<\/tr>/g, m => `<table>${m}</table>`)
                     .replace(/<\/table><table>/g, '')
                 }}
               />
