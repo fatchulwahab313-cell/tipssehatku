@@ -723,6 +723,132 @@ Jika mengalami beberapa gejala di atas, segera periksa kadar gula darah ke dokte
     readTime: "7 menit",
     image: "/images/diabetes.jpg",
   },
+  {
+    slug: "pentingnya-postur-tubuh-yang-baik",
+    title: "Pentingnya Postur Tubuh yang Baik: Panduan Lengkap untuk Punggung Sehat",
+    excerpt: "Postur tubuh yang buruk bukan hanya soal penampilan — ini mempengaruhi kesehatan tulang belakang, pernapasan, suasana hati, dan produktivitas harianmu. Pelajari cara duduk, berdiri, dan bergerak dengan benar.",
+    content: `
+Pernahkah kamu merasakan nyeri punggung setelah duduk lama, atau leher kaku setelah bekerja di depan layar? Itu bukan kebetulan. Postur tubuh yang salah adalah penyebab utama berbagai masalah kesehatan yang seringkali dianggap sepele.
+
+## Apa Itu Postur Tubuh?
+
+Postur tubuh adalah posisi dan keselarasan bagian-bagian tubuh kita saat berdiri, duduk, atau bergerak. Postur yang baik berarti tulang, otot, dan sendi berada dalam keseimbangan yang optimal sehingga tidak ada tekanan berlebihan pada satu bagian tubuh.
+
+## Mengenal Anatomi Tulang Belakang
+
+Memahami struktur tulang belakang membantu kita mengerti mengapa postur itu penting.
+
+### Struktur Tulang Belakang (Vertebra)
+
+Tulang belakang manusia terdiri dari beberapa segmen:
+
+- **Cervical (leher)** — 7 ruas, menopang kepala dan memungkinkan gerak leher
+- **Thoracic (dada & punggung atas)** — 12 ruas, berhubungan dengan tulang rusuk
+- **Lumbal (punggung bawah)** — 5 ruas, menanggung beban terbesar tubuh
+- **Sacrum & Coccyx (tulang ekor)** — menjadi dasar tulang belakang
+
+**Tekanan terbesar pada tulang belakang terjadi di area lumbal**, terutama saat duduk dalam posisi yang salah.
+
+### Diskus Intervertebralis: Bantalan Sendi Tulang Belakang
+
+Di antara setiap ruas tulang belakang terdapat **diskus intervertebralis** — "bantal" yang berfungsi meredam benturan dan memberikan fleksibilitas. Struktur ini terdiri dari:
+
+- **Nucleus pulposus** — bagian dalam yang lunak seperti gel
+- **Annulus fibrosus** — cincin luar yang keras dan berserat
+
+Postur yang buruk secara konsisten dapat meningkatkan tekanan pada diskus, menyebabkan kerusakan dan nyeri jangka panjang, bahkan hernia nukleus pulposus (saraf terjepit).
+
+## Dampak Postur yang Baik
+
+Manfaat menjaga postur tubuh jauh lebih luas dari sekadar penampilan:
+
+### Manfaat Fisik
+- Mencegah nyeri punggung, leher, dan otot
+- Meningkatkan fungsi pernapasan (dada tidak tertekan)
+- Melancarkan sistem pencernaan
+- Meningkatkan kelenturan dan mobilitas tubuh
+
+### Manfaat Mental
+- Meningkatkan rasa percaya diri
+- Mengurangi stres dan ketegangan
+- Suasana hati lebih stabil dan positif
+
+### Manfaat Produktivitas
+- Meningkatkan fokus dan konsentrasi
+- Tidak mudah lelah saat beraktivitas
+- Stamina lebih terjaga sepanjang hari
+
+### Manfaat Penampilan
+- Badan terlihat lebih tegak dan tinggi
+- Mencerminkan kepribadian yang positif dan percaya diri
+
+## Postur Berdiri yang Benar
+
+Saat berdiri, perhatikan hal-hal berikut:
+
+- **Kepala:** Tegak, dagu sejajar dengan lantai — jangan menunduk atau mendongak
+- **Bahu:** Rileks dan sedikit ke belakang, tidak membungkuk ke depan
+- **Punggung:** Lurus dengan sedikit lengkungan alami di bagian lumbar
+- **Lutut:** Tidak terkunci, sedikit fleksibel untuk mencegah tekanan berlebih
+- **Kaki:** Berjarak selebar pinggul, berat badan dibagi merata di kedua kaki
+
+## Postur Duduk di Kursi (Bekerja/Sekolah)
+
+Duduk adalah postur yang paling banyak dilakukan — dan paling sering salah. Berikut panduan duduk yang benar di meja kerja:
+
+- **Leher dan punggung lurus**, bersandar ke sandaran kursi
+- Gunakan **bantal kecil di area lumbar** jika sandaran tidak cukup menopang
+- **Bagian atas monitor sejajar dengan mata** — monitor terlalu rendah memaksa leher menunduk
+- **Jarak mata ke monitor** sekitar 40–75 cm
+- **Pantat berada di pojok kursi**, bukan melorot ke depan
+- **Ketinggian meja** sejajar dengan lengan dan siku saat mengetik
+- **Ketinggian kursi** disesuaikan dengan tinggi kaki agar paha sejajar lantai
+
+## Postur Saat Duduk di Lantai
+
+Di Indonesia, duduk di lantai sangat umum — saat pengajian, makan bersama, atau aktivitas keluarga. Ini tips aman:
+
+- Gunakan **alas/spon setebal ±5 cm** dengan bahan tidak terlalu empuk (agak kaku lebih baik)
+- Usahakan **posisi sandaran tegak** — jangan membungkuk ke depan dalam waktu lama
+- Hindari duduk **bersila terlalu lama** tanpa jeda karena meningkatkan tekanan tidak merata pada tulang rawan lutut
+
+## Postur Saat Menulis
+
+Posisi menulis yang sering salah:
+
+- **Kurang benar:** Badan terlalu membungkuk, meja datar sehingga mata harus menunduk jauh
+- **Lebih benar:** Badan sedikit condong (tidak kaku lurus 90°), gunakan **meja miring** agar pandangan lebih rileks — ini juga lebih nyaman untuk tangan, lengan, dan bahu
+
+## Postur Aktivitas Sehari-hari Lainnya
+
+### Mengangkat Barang Berat
+- Jangan membungkuk dari pinggang
+- Tekuk **lutut**, punggung tetap lurus
+- Angkat dengan kekuatan kaki, bukan punggung
+
+### Posisi Tidur
+- Gunakan alas tidur (kasur) yang tidak terlalu empuk dan tidak terlalu keras
+- Pilih bantal dengan ketinggian yang pas — sejajar dengan lebar bahu saat miring
+
+## Kesimpulan
+
+Postur tubuh yang baik adalah investasi kesehatan jangka panjang. Mulai dari cara duduk, berdiri, mengangkat barang, hingga tidur — semua mempengaruhi kondisi tulang belakang, otot, dan kesehatan secara keseluruhan.
+
+**Tiga langkah mulai sekarang:**
+1. Setiap 30–60 menit duduk, berdiri dan lakukan peregangan ringan
+2. Atur ketinggian kursi dan monitor agar ergonomis
+3. Latih kesadaran postur setiap hari — lama-lama akan menjadi kebiasaan otomatis
+
+Ingat, perubahan kecil yang konsisten lebih berdampak daripada perubahan besar yang hanya sesekali.
+    `.trim(),
+    category: "olahraga",
+    tags: ["postur", "tulang belakang", "ergonomis", "punggung", "duduk", "nyeri"],
+    author: "Tim Medis TipsSehatku",
+    date: "2026-05-29",
+    readTime: "8 menit",
+    image: "/images/postur.jpg",
+    featured: true,
+  },
 ];
 
 export function getArticleBySlug(slug: string): Article | undefined {
