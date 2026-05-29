@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     locale: "id_ID",
     url: "https://tipssehatku.com",
     title: "TipsSehatku - Informasi Kesehatan Terpercaya",
-    description: "Portal kesehatan terpercaya untuk keluarga Indonesia. 17 artikel berbasis riset ditinjau oleh tenaga medis.",
+    description: "Portal kesehatan terpercaya untuk keluarga Indonesia. 19 artikel berbasis riset ditinjau oleh tenaga medis.",
   },
   twitter: {
     card: "summary_large_image",

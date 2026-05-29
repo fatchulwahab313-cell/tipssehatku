@@ -1611,6 +1611,261 @@ Sarapan sehat tidak harus mahal atau memakan banyak waktu. Dengan perencanaan se
     readTime: "7 menit",
     image: "https://images.unsplash.com/photo-1533089860892-a7c6f0a88666?w=800&h=420&fit=crop&auto=format&q=80",
   },
+
+  // ─── ARTIKEL BARU 18 ───
+  {
+    slug: "sate-kambing-idul-adha-kandungan-gizi-tips-sehat",
+    title: "Sate Kambing Idul Adha: Kandungan Gizi, Manfaat, dan Tips Makan Agar Tetap Sehat",
+    excerpt: "Idul Adha identik dengan sate kambing. Tapi amankah untuk kesehatan? Temukan kandungan gizi, manfaat, risiko, dan tips menikmati sate kambing tanpa khawatir kolesterol naik.",
+    content: `
+Idul Adha tiba, aroma sate kambing yang mengepul dari arang membara memenuhi udara. Sajian khas yang selalu dinantikan ini memang menggugah selera — tapi tidak sedikit yang khawatir: **amankah makan sate kambing untuk kesehatan?**
+
+Jawabannya: **boleh, asal tahu caranya.** Mari kita bedah fakta gizinya secara ilmiah.
+
+[IMG:https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=800&h=420&fit=crop&auto=format&q=80|Sate Kambing Idul Adha|Sate kambing adalah hidangan ikonik Idul Adha yang kaya protein dan nutrisi penting]
+
+## Kandungan Gizi Daging Kambing
+
+Sebelum menghakimi daging kambing sebagai "tidak sehat", mari lihat faktanya. Per **100 gram daging kambing** mengandung:
+
+| Nutrisi | Jumlah |
+|---|---|
+| Kalori | 109 kkal |
+| Protein | 20,6 gram |
+| Lemak total | 2,3 gram |
+| Lemak jenuh | 0,79 gram |
+| Kolesterol | 75 mg |
+| Zat besi | 2,83 mg |
+| Zinc | 4,0 mg |
+| Vitamin B12 | 2,64 mcg |
+
+**Fakta mengejutkan:** Daging kambing mengandung lebih **sedikit lemak dan kalori** dibandingkan daging sapi, babi, atau bahkan ayam dengan kulit! Daging kambing termasuk kategori **lean meat (daging rendah lemak)**.
+
+## Manfaat Kesehatan Daging Kambing
+
+### 1. Sumber Protein Berkualitas Tinggi
+Dengan 20,6 gram protein per 100 gram, daging kambing mengandung semua **asam amino esensial** yang dibutuhkan tubuh untuk membangun dan memperbaiki jaringan otot, kulit, dan organ.
+
+### 2. Kaya Zat Besi Heme
+Zat besi dalam daging merah (heme iron) diserap tubuh **2-3 kali lebih efisien** dibanding zat besi nabati (non-heme). Ini menjadikan daging kambing pilihan tepat untuk mencegah dan mengatasi anemia.
+
+Satu porsi sate kambing (5 tusuk ≈ 150g) memenuhi **sekitar 21% kebutuhan zat besi harian** pria dewasa.
+
+### 3. Sumber Zinc Terbaik
+Zinc berperan penting dalam:
+- Fungsi imun tubuh
+- Penyembuhan luka
+- Pertumbuhan sel dan jaringan
+- Fungsi reproduksi pria
+
+### 4. Vitamin B12 untuk Saraf dan Darah
+Vitamin B12 hampir **hanya ditemukan dalam produk hewani**. Defisiensi B12 bisa menyebabkan anemia, kerusakan saraf, dan masalah kognitif. Daging kambing adalah salah satu sumber B12 terbaik.
+
+[IMG:https://images.unsplash.com/photo-1544025162-d76694265947?w=800&h=380&fit=crop&auto=format&q=80|Proses Memanggang Sate|Cara memasak sate yang benar berpengaruh besar pada nilai gizinya]
+
+## Mitos vs Fakta: Sate Kambing dan Hipertensi
+
+**Mitos yang beredar luas:** "Makan sate kambing bikin darah tinggi naik."
+
+**Fakta ilmiah:** Daging kambing sendiri **tidak secara langsung menyebabkan hipertensi**. Yang memicu tekanan darah naik adalah:
+
+- ❌ **Kecap manis berlebihan** — tinggi natrium dan gula
+- ❌ **Jeroan** (usus, jantung, hati) — kolesterol sangat tinggi
+- ❌ **Lemak/gajih** — lemak jenuh tinggi
+- ❌ **Porsi berlebihan** — asupan kalori keseluruhan
+
+Daging kambing tanpa gajih, tanpa jeroan, dengan kecap sedikit = **pilihan yang relatif aman** untuk penderita hipertensi ringan dengan porsi moderat.
+
+## 7 Tips Makan Sate Kambing Sehat saat Idul Adha
+
+### 1. Pilih Bagian Daging Tanpa Lemak
+Hindari bagian berlemak seperti iga atau bagian dengan gajih putih banyak. Pilih **has dalam (tenderloin), paha, atau bagian punggung** yang lebih rendah lemak.
+
+### 2. Batasi Porsi Wajar
+Porsi ideal sate kambing untuk orang sehat: **5-8 tusuk per sajian** (sekitar 150-200 gram). Untuk penderita kolesterol tinggi atau hipertensi: **4-5 tusuk** dengan pilihan bagian daging tanpa lemak.
+
+### 3. Kurangi Kecap dan Bumbu Berbasis Garam
+Kecap manis mengandung natrium tinggi yang memperburuk hipertensi. Coba ganti sebagian kecap dengan **perasan jeruk nipis** untuk rasa segar yang lebih sehat.
+
+### 4. Hindari Jeroan
+Jeroan seperti usus, hati, ginjal, dan jantung mengandung kolesterol jauh lebih tinggi dibanding daging biasa. Satu porsi hati kambing (100g) mengandung **374 mg kolesterol** — melebihi batas harian yang dianjurkan!
+
+### 5. Imbangi dengan Sayuran
+Makan sate bersama **lalapan segar** (timun, tomat, kemangi, bawang merah) membantu memperlambat penyerapan lemak dan menambah serat.
+
+[IMG:https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&h=380&fit=crop&auto=format&q=80|Sayuran Pendamping Sate|Lalapan segar adalah pasangan sempurna sate kambing untuk menyeimbangkan nutrisi]
+
+### 6. Perhatikan Cara Pemasakan
+- ✅ **Bakar di arang** — lemak menetes keluar, lebih sehat
+- ✅ **Matang sempurna** — hindari daging setengah matang untuk keamanan pangan
+- ❌ **Gosong/hangus** — menghasilkan senyawa karsinogen (HCA dan PAH)
+- ❌ **Direbus dalam minyak banyak** — menambah kalori berlipat ganda
+
+### 7. Minum Air Putih yang Cukup
+Daging merah membutuhkan proses pencernaan lebih lama dan kerja ginjal lebih keras. Pastikan minum air putih **minimal 8-10 gelas** pada hari makan daging banyak.
+
+## Siapa yang Perlu Ekstra Hati-hati?
+
+Beberapa kondisi yang memerlukan perhatian lebih saat makan daging kambing:
+
+- **Penderita asam urat (gout):** Daging merah tinggi purin. Batasi 1-2 tusuk saja dan perbanyak minum air
+- **Penderita kolesterol LDL tinggi:** Pilih bagian tanpa lemak, batasi 4-5 tusuk
+- **Penderita penyakit ginjal:** Konsultasikan dengan dokter mengenai batasan protein
+- **Lansia di atas 65 tahun:** Porsi lebih kecil, pastikan daging matang sempurna
+
+## Kesimpulan
+
+Sate kambing **aman dan bergizi** jika dikonsumsi dengan bijak. Kunci utamanya: pilih daging tanpa lemak, hindari jeroan, batasi kecap, dan seimbangkan dengan sayuran dan air putih.
+
+Idul Adha adalah momen istimewa untuk berbagi dan bersyukur. Nikmati sate kambingmu dengan penuh kebahagiaan — karena kebahagiaan sendiri adalah bagian dari kesehatan yang sering terlupakan! 🐐
+    `.trim(),
+    category: "gizi",
+    tags: ["sate kambing", "idul adha", "daging kambing", "gizi", "kolesterol", "protein", "qurban"],
+    author: "Ahli Gizi TipsSehatku",
+    date: "2026-05-29",
+    readTime: "7 menit",
+    image: "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=800&h=420&fit=crop&auto=format&q=80",
+    featured: false,
+  },
+
+  // ─── ARTIKEL BARU 19 ───
+  {
+    slug: "sate-sapi-idul-adha-gizi-manfaat-tips-sehat",
+    title: "Sate Sapi Idul Adha: Gizi Lengkap Daging Sapi dan Cara Menikmatinya Tanpa Rasa Bersalah",
+    excerpt: "Sate sapi adalah alternatif populer di Idul Adha. Lebih tinggi protein dan kaya zat besi — tapi perlu dikonsumsi dengan tepat. Ini panduan lengkapnya untuk tubuh tetap sehat.",
+    content: `
+Idul Adha tak lengkap tanpa daging sapi. Dari opor, rendang, hingga sate — daging sapi menjadi bintang utama perayaan. **Sate sapi** dengan bumbu kacang kental dan lontong hangat adalah kombinasi yang sulit ditolak.
+
+Namun pertanyaannya selalu sama: "Berapa banyak yang aman? Apakah aman untuk jantung?"
+
+[IMG:https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?w=800&h=420&fit=crop&auto=format&q=80|Daging Sapi Segar|Daging sapi segar berkualitas adalah kunci sate yang lezat sekaligus bergizi]
+
+## Profil Gizi Daging Sapi
+
+Daging sapi tanpa lemak (lean beef) per **100 gram** mengandung:
+
+| Nutrisi | Jumlah |
+|---|---|
+| Kalori | 250 kkal |
+| Protein | 26 gram |
+| Lemak total | 15 gram |
+| Lemak jenuh | 6 gram |
+| Kolesterol | 90 mg |
+| Zat besi | 2,7 mg |
+| Zinc | 6,3 mg |
+| Vitamin B12 | 2,2 mcg |
+| Kreatin | ~5 gram |
+
+Daging sapi memang lebih tinggi kalori dan lemak dibanding daging kambing, tapi juga **lebih tinggi protein dan zinc** — nutrisi kritis untuk pertumbuhan otot dan imunitas.
+
+## Mengapa Daging Sapi Penting untuk Kesehatan
+
+### 1. Raja Protein Hewani
+Dengan 26 gram protein per 100g, daging sapi menyediakan **semua asam amino esensial** dalam proporsi ideal. Ini menjadikannya sumber protein dengan biological value (BV) tertinggi setelah telur.
+
+Protein penting untuk:
+- Membangun dan mempertahankan massa otot
+- Sistem kekebalan tubuh (antibodi adalah protein)
+- Produksi enzim dan hormon
+- Pemulihan luka dan jaringan rusak
+
+### 2. Sumber Kreatin Alami Terbaik
+Kreatin — yang banyak dicari atlet dalam bentuk suplemen — **secara alami ada dalam daging sapi**. Kreatin mendukung performa fisik, kekuatan otot, dan bahkan fungsi kognitif.
+
+### 3. Zat Besi Tinggi untuk Cegah Anemia
+Zat besi heme dalam daging sapi adalah bentuk yang paling mudah diserap tubuh. Terutama penting untuk:
+- **Wanita usia subur** — kehilangan zat besi saat menstruasi
+- **Ibu hamil** — kebutuhan zat besi meningkat 2x lipat
+- **Anak-anak** — krusial untuk perkembangan otak
+
+[IMG:https://images.unsplash.com/photo-1544025162-d76694265947?w=800&h=380&fit=crop&auto=format&q=80|Sate Sapi Dibakar|Proses pembakaran yang tepat menjaga cita rasa dan nilai gizi sate sapi]
+
+### 4. Zinc untuk Imunitas dan Reproduksi
+Zinc dari daging sapi lebih tinggi dari daging kambing. Satu porsi sate sapi (150g) bisa memenuhi **sekitar 70% kebutuhan zinc harian**. Mineral ini esensial untuk fungsi imun, penyembuhan luka, dan kesuburan.
+
+### 5. Koenzim Q10 untuk Energi Sel
+Daging sapi mengandung CoQ10 — senyawa yang berperan dalam produksi energi di tingkat sel (mitokondria). CoQ10 juga bersifat antioksidan dan mendukung kesehatan jantung.
+
+## Bumbu Kacang: Gizi Tambahan yang Sering Dilupakan
+
+Sate sapi tidak bisa dipisahkan dari **bumbu kacang**. Dan ternyata, bumbu kacang punya profil gizi yang cukup baik:
+
+- **Kacang tanah** — tinggi lemak tak jenuh tunggal (sehat untuk jantung), protein, vitamin E
+- **Bawang merah & bawang putih** — antioksidan, antibakteri
+- **Lengkuas & serai** — anti-inflamasi, antibakteri
+- **Kecap** — mengandung isoflavon dari kedelai
+
+**Catatan:** Bumbu kacang yang dijual di warung sering kali **sangat tinggi gula dan garam**. Jika membuat sendiri di rumah, kurangi gula dan ganti sebagian kecap dengan kaldu sapi untuk rasa lebih sehat.
+
+## Tips Memilih dan Mengolah Sate Sapi yang Sehat
+
+### Memilih Bagian Daging
+| Bagian | Kandungan Lemak | Rekomendasi |
+|---|---|---|
+| Has dalam (tenderloin) | Rendah | ✅ Terbaik untuk sate |
+| Has luar (sirloin) | Sedang | ✅ Baik |
+| Sengkel | Rendah-sedang | ✅ Baik |
+| Iga | Tinggi | ⚠️ Batasi |
+| Gajih/lemak sapi | Sangat tinggi | ❌ Hindari |
+
+### Tips Pengolahan yang Lebih Sehat
+
+**1. Marinasi dengan rempah:**
+Sebelum dibakar, rendam daging dalam bumbu kunyit, ketumbar, bawang putih, dan jahe. Selain menambah rasa, rempah ini memiliki sifat **antioksidan yang mengurangi senyawa berbahaya** yang terbentuk saat pembakaran.
+
+**2. Gunakan arang, bukan kompor gas biasa:**
+Pembakaran dengan arang membuat lemak menetes dan berkurang, sekaligus memberi aroma khas yang tidak tergantikan.
+
+**3. Jangan bakar sampai gosong:**
+Bagian gosong mengandung **heterocyclic amines (HCA)** dan **polycyclic aromatic hydrocarbons (PAH)** yang bersifat karsinogen. Panggang hingga matang tapi tidak hangus.
+
+[IMG:https://images.unsplash.com/photo-1559181567-c3190ca9d703?w=800&h=380&fit=crop&auto=format&q=80|Sate Sapi dengan Bumbu Kacang|Sate sapi dengan bumbu kacang segar dan lalapan adalah sajian Idul Adha yang sempurna]
+
+## Berapa Porsi Aman Sate Sapi?
+
+**Panduan umum WHO:** Konsumsi daging merah sebaiknya tidak melebihi **500 gram per minggu** (berat matang). Artinya, selama seminggu Idul Adha total daging merah tidak boleh lebih dari sekitar 5 porsi kecil.
+
+**Per hari Idul Adha:**
+- Orang sehat: **6-10 tusuk** (180-300 gram daging)
+- Penderita kolesterol/hipertensi: **4-6 tusuk** pilihan tanpa lemak
+- Penderita asam urat: **2-4 tusuk** + banyak minum air
+
+## Kombinasi Makan Sate yang Ideal
+
+Untuk memaksimalkan manfaat dan meminimalkan risiko:
+
+1. **Lontong atau ketupat** — karbohidrat kompleks yang mengenyangkan, mencegah makan daging berlebihan
+2. **Lalapan segar** (timun, tomat, kemangi) — serat, vitamin C, dan antioksidan
+3. **Acar bawang** — probiotik alami, membantu pencernaan
+4. **Air jeruk nipis** — vitamin C meningkatkan penyerapan zat besi hingga 3x lipat!
+5. **Air putih** — minimal 2 gelas ekstra dari biasanya
+
+## Perhatian Khusus untuk Beberapa Kondisi
+
+**Asam urat:** Daging sapi tergolong tinggi purin. Penderita asam urat sebaiknya membatasi konsumsi dan menghindari jeroan serta kaldu pekat.
+
+**Penyakit jantung koroner:** Pilih bagian tanpa lemak, hindari jeroan dan gajih. Kurangi bumbu kacang berlemak tinggi.
+
+**Diabetes tipe 2:** Perhatikan bumbu kacang yang sering tinggi gula. Minta bumbu terpisah dan tambahkan sendiri secukupnya.
+
+**Ibu hamil:** Daging sapi sangat baik karena kaya zat besi dan vitamin B12 — tapi pastikan daging **matang sempurna** untuk menghindari toksoplasmosis dan listeria.
+
+## Idul Adha: Momen Berbagi yang Menyehatkan
+
+Di balik tradisi qurban, ada filosofi kesehatan yang indah — **daging yang banyak dibagikan kepada yang membutuhkan** justru memastikan setiap orang mendapat asupan protein berkualitas setahun sekali.
+
+Nikmati sate sapimu dengan penuh syukur. Dengan pilihan yang tepat dan porsi yang bijak, Idul Adha bisa menjadi momen yang menyenangkan sekaligus tetap menjaga kesehatan keluarga. 🐄🔥
+
+**Selamat Hari Raya Idul Adha! Taqabbalallahu minna wa minkum.**
+    `.trim(),
+    category: "gizi",
+    tags: ["sate sapi", "idul adha", "daging sapi", "gizi", "protein", "zat besi", "qurban"],
+    author: "Ahli Gizi TipsSehatku",
+    date: "2026-05-29",
+    readTime: "8 menit",
+    image: "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?w=800&h=420&fit=crop&auto=format&q=80",
+    featured: false,
+  },
 ];
 
 export function getArticleBySlug(slug: string): Article | undefined {

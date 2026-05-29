@@ -27,7 +27,7 @@ export default function Navbar() {
     <>
       {/* ── TOP BAR ── */}
       <div style={{ background: "var(--green-dark)", color: "rgba(255,255,255,.85)", fontSize: "0.75rem", padding: "6px 4%", display: "flex", justifyContent: "space-between", alignItems: "center" }}>
-        <span>📋 Informasi Kesehatan Terpercaya · 17 Artikel Terverifikasi Medis</span>
+        <span>📋 Informasi Kesehatan Terpercaya · 19 Artikel Terverifikasi Medis</span>
         <span className="hidden sm:block" style={{ color: "rgba(255,255,255,.85)" }}>
           ✉️ info@tipssehatku.com &nbsp;|&nbsp;
           <Link href="#" className="hover:text-white transition-colors" style={{ color: "rgba(255,255,255,.85)" }}>Tentang Kami</Link>
