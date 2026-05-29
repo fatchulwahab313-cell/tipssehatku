@@ -1,4 +1,4 @@
-export interface Article {
+﻿export interface Article {
   slug: string;
   title: string;
   excerpt: string;
@@ -88,7 +88,7 @@ Mulai hari ini, jadikan minum air putih sebagai kebiasaan sehat yang tidak bisa 
     author: "dr. Sari Andini",
     date: "2026-05-20",
     readTime: "5 menit",
-    image: "/images/air-putih.jpg",
+    image: "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=800&h=420&fit=crop&auto=format&q=80",
     featured: true,
   },
   {
@@ -151,7 +151,7 @@ Investasi dalam kualitas tidur adalah investasi terbaik untuk kesehatan dan prod
     author: "dr. Budi Santoso",
     date: "2026-05-18",
     readTime: "6 menit",
-    image: "/images/tidur.jpg",
+    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=800&h=420&fit=crop&auto=format&q=80",
     featured: true,
   },
   {
@@ -219,7 +219,7 @@ Konsultasikan dengan dokter atau ahli gizi untuk program penurunan kolesterol ya
     author: "Nurul Fitria, S.Gz",
     date: "2026-05-15",
     readTime: "7 menit",
-    image: "/images/kolesterol.jpg",
+    image: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&h=420&fit=crop&auto=format&q=80",
   },
   {
     slug: "olahraga-30-menit-sehari-manfaatnya",
@@ -293,7 +293,7 @@ Mulai hari ini. Tidak perlu sempurna, yang penting konsisten.
     author: "Ahmad Fauzi, S.Or",
     date: "2026-05-12",
     readTime: "6 menit",
-    image: "/images/olahraga.jpg",
+    image: "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=800&h=420&fit=crop&auto=format&q=80",
     featured: true,
   },
   {
@@ -365,7 +365,7 @@ Jahe merah adalah hadiah alam yang luar biasa — murah, mudah didapat, dan manf
     author: "Dr. Hendra Wijaya",
     date: "2026-05-10",
     readTime: "5 menit",
-    image: "/images/jahe-merah.jpg",
+    image: "https://images.unsplash.com/photo-1615485500704-8e990f9900f7?w=800&h=420&fit=crop&auto=format&q=80",
   },
   {
     slug: "cara-mengatasi-stres-kerja",
@@ -434,7 +434,7 @@ Ingat: mencari bantuan profesional adalah tanda kekuatan, bukan kelemahan.
     author: "Psikolog Dewi Rahayu",
     date: "2026-05-08",
     readTime: "7 menit",
-    image: "/images/stres-kerja.jpg",
+    image: "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&h=420&fit=crop&auto=format&q=80",
   },
   {
     slug: "mpasi-bayi-6-bulan-panduan-lengkap",
@@ -507,7 +507,7 @@ Konsultasikan selalu dengan dokter spesialis anak untuk panduan MPASI yang sesua
     author: "dr. Lina Kusuma, Sp.A",
     date: "2026-05-05",
     readTime: "8 menit",
-    image: "/images/mpasi.jpg",
+    image: "https://images.unsplash.com/photo-1490752373277-54d85c53e2b5?w=800&h=420&fit=crop&auto=format&q=80",
   },
   {
     slug: "tekanan-darah-tinggi-gejala-dan-cara-menurunkan",
@@ -575,7 +575,7 @@ Pantau tekanan darah secara rutin — minimal sekali sebulan jika sudah terdiagn
     author: "dr. Rizky Pratama, Sp.JP",
     date: "2026-05-03",
     readTime: "7 menit",
-    image: "/images/hipertensi.jpg",
+    image: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=800&h=420&fit=crop&auto=format&q=80",
   },
   {
     slug: "vitamin-c-manfaat-dan-sumber-terbaik",
@@ -647,7 +647,7 @@ Meta-analisis menunjukkan suplementasi vitamin C menurunkan tekanan darah sistol
     author: "Nurul Fitria, S.Gz",
     date: "2026-04-28",
     readTime: "6 menit",
-    image: "/images/vitamin-c.jpg",
+    image: "https://images.unsplash.com/photo-1610832958506-aa56368176cf?w=800&h=420&fit=crop&auto=format&q=80",
   },
   {
     slug: "diabetes-tanda-awal-yang-sering-diabaikan",
@@ -721,7 +721,7 @@ Jika mengalami beberapa gejala di atas, segera periksa kadar gula darah ke dokte
     author: "dr. Rizky Pratama, Sp.JP",
     date: "2026-04-25",
     readTime: "7 menit",
-    image: "/images/diabetes.jpg",
+    image: "https://images.unsplash.com/photo-1505253758473-96b7015fcd40?w=800&h=420&fit=crop&auto=format&q=80",
   },
   {
     slug: "pentingnya-postur-tubuh-yang-baik",
@@ -846,7 +846,7 @@ Ingat, perubahan kecil yang konsisten lebih berdampak daripada perubahan besar y
     author: "Tim Medis TipsSehatku",
     date: "2026-05-29",
     readTime: "8 menit",
-    image: "/images/postur.jpg",
+    image: "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800&h=420&fit=crop&auto=format&q=80",
     featured: true,
   },
   {
@@ -985,7 +985,7 @@ Personal hygiene bukan rutinitas yang membebani — ini adalah bentuk penghargaa
     author: "Tim Medis TipsSehatku",
     date: "2026-05-29",
     readTime: "9 menit",
-    image: "/images/hygiene.jpg",
+    image: "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=800&h=420&fit=crop&auto=format&q=80",
     featured: true,
   },
 ];
@@ -1015,3 +1015,4 @@ export function getRelatedArticles(slug: string, limit = 3): Article[] {
     .filter(a => a.slug !== slug && (a.category === current.category || a.tags.some(t => current.tags.includes(t))))
     .slice(0, limit);
 }
+

@@ -1,6 +1,7 @@
 import { getArticleBySlug, getRelatedArticles, getRecentArticles, articles, categories } from "@/data/articles";
 import { notFound } from "next/navigation";
 import Link from "next/link";
+import Image from "next/image";
 import AdSlot from "@/components/AdSlot";
 import ArticleCard from "@/components/ArticleCard";
 import AiSummary from "@/components/AiSummary";
@@ -67,10 +68,25 @@ export default async function ArticlePage({ params }: Props) {
         <article className="flex-1 min-w-0">
           <div className="bg-white rounded-xl shadow-sm overflow-hidden">
             {/* Article header image */}
-            <div className="h-52 flex items-center justify-center text-7xl"
-              style={{ background: "linear-gradient(135deg, #dcfce7, #bbf7d0)" }}>
-              {cat?.icon || "🏥"}
-            </div>
+            {article.image?.startsWith("http") ? (
+              <div className="relative w-full h-56 md:h-72 overflow-hidden">
+                <Image
+                  src={article.image}
+                  alt={article.title}
+                  fill
+                  priority
+                  sizes="(max-width:768px) 100vw, 800px"
+                  className="object-cover"
+                  unoptimized
+                />
+                <div className="absolute inset-0" style={{ background: "linear-gradient(to bottom, transparent 50%, rgba(0,0,0,0.25))" }} />
+              </div>
+            ) : (
+              <div className="h-52 flex items-center justify-center text-7xl"
+                style={{ background: "linear-gradient(135deg, #dcfce7, #bbf7d0)" }}>
+                {cat?.icon || "🏥"}
+              </div>
+            )}
 
             <div className="p-6 md:p-8">
               {/* Meta */}
