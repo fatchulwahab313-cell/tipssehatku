@@ -50,6 +50,12 @@ export default async function ArticlePage({ params }: Props) {
     .map(line => {
       if (line.startsWith('### ')) return `<h3>${line.slice(4)}</h3>`;
       if (line.startsWith('## '))  return `<h2>${line.slice(3)}</h2>`;
+      // Inline image: [IMG:url|alt|caption]
+      if (line.startsWith('[IMG:')) {
+        const inner = line.slice(5, -1);
+        const [url, alt = '', caption = ''] = inner.split('|');
+        return `<figure class="article-figure"><img src="${url}" alt="${alt}" loading="lazy" />${caption ? `<figcaption>${caption}</figcaption>` : ''}</figure>`;
+      }
       if (line.startsWith('- ') || line.startsWith('✅ ') || line.startsWith('🚫 '))
         return `<li>${line.replace(/^[-✅🚫]\s/, '')}</li>`;
       if (/^\d+\.\s/.test(line)) return `<li>${line.replace(/^\d+\.\s/, '')}</li>`;

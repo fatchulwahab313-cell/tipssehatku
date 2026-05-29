@@ -206,6 +206,30 @@ img { display: block; width: 100%; object-fit: cover; }
 .article-content tr:last-child td { border-bottom:none; }
 .article-content tr:nth-child(even) td { background:var(--green-pale); }
 
+/* ── INLINE IMAGE FIGURE ── */
+.article-figure {
+  margin: 1.6rem 0;
+  border-radius: var(--radius-sm);
+  overflow: hidden;
+  box-shadow: var(--shadow-md);
+}
+.article-figure img {
+  width: 100%;
+  height: auto;
+  max-height: 420px;
+  object-fit: cover;
+  display: block;
+}
+.article-figure figcaption {
+  background: var(--green-pale);
+  border-top: 1px solid var(--green-mint);
+  padding: 8px 14px;
+  font-size: 0.78rem;
+  color: var(--soft);
+  font-style: italic;
+  text-align: center;
+}
+
 /* ── HOVER UTILITY CLASSES ── */
 .cat-pill-link {
   display: flex; align-items: center; gap: 6px;
