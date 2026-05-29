@@ -287,6 +287,18 @@ img { display: block; width: 100%; object-fit: cover; }
   .page-sidebar { display: none; }
 }
 
+/* ── ARTICLE PAGE GRID ── */
+.article-page-grid {
+  display: grid;
+  grid-template-columns: 1fr 280px;
+  gap: 24px;
+  align-items: start;
+}
+@media (max-width: 1023px) {
+  .article-page-grid { grid-template-columns: 1fr; }
+  .article-sidebar { display: none; }
+}
+
 .footer-grid {
   display: grid;
   grid-template-columns: 2fr 1fr 1fr;
