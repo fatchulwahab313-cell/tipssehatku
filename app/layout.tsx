@@ -1,14 +1,12 @@
 import type { Metadata } from "next";
-import { Geist } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
-
-const geist = Geist({ variable: "--font-geist-sans", subsets: ["latin"] });
+import FloatingShare from "@/components/FloatingShare";
 
 export const metadata: Metadata = {
-  title: { default: "TipsSehatku - Tips Kesehatan Terpercaya untuk Indonesia", template: "%s | TipsSehatku" },
-  description: "Temukan tips kesehatan terpercaya, informasi gizi, obat herbal, dan panduan hidup sehat untuk keluarga Indonesia.",
+  title: { default: "TipsSehatku - Informasi Kesehatan Terpercaya", template: "%s | TipsSehatku" },
+  description: "Temukan tips kesehatan terpercaya, informasi gizi, obat herbal, dan panduan hidup sehat untuk keluarga Indonesia. Ditinjau oleh tenaga medis.",
   keywords: ["tips kesehatan", "kesehatan indonesia", "gizi", "herbal", "penyakit", "olahraga", "sehat"],
   authors: [{ name: "TipsSehatku" }],
   openGraph: { siteName: "TipsSehatku", type: "website", locale: "id_ID" },
@@ -16,11 +14,20 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="id" className={geist.variable}>
-      <body className="min-h-screen flex flex-col antialiased">
+    <html lang="id">
+      <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        <link
+          href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Lora:ital,wght@0,500;0,600;0,700;1,500&display=swap"
+          rel="stylesheet"
+        />
+      </head>
+      <body className="min-h-screen flex flex-col">
         <Navbar />
         <main className="flex-1">{children}</main>
         <Footer />
+        <FloatingShare />
       </body>
     </html>
   );

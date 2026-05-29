@@ -1,100 +1,96 @@
 import Link from "next/link";
 import Image from "next/image";
-import { Clock } from "lucide-react";
 import type { Article } from "@/data/articles";
 import { categories } from "@/data/articles";
 
 interface Props { article: Article; featured?: boolean; }
 
+const badgeClass: Record<string, string> = {
+  gizi:       "badge-gizi",
+  penyakit:   "badge-penyakit",
+  herbal:     "badge-herbal",
+  olahraga:   "badge-olahraga",
+  "ibu-anak": "badge-ibu-anak",
+  mental:     "badge-mental",
+};
+
 export default function ArticleCard({ article, featured = false }: Props) {
   const cat = categories.find(c => c.slug === article.category);
+  const cls = badgeClass[article.category] || "badge-gray";
 
-  const img = (
-    <div className="relative w-full overflow-hidden bg-gray-100"
-      style={{ paddingTop: featured ? 0 : "56.25%", height: featured ? "100%" : 0 }}>
-      {article.image?.startsWith("http") ? (
-        <Image
-          src={article.image}
-          alt={article.title}
-          fill
-          sizes="(max-width:640px) 100vw, 320px"
-          className="object-cover transition-transform duration-300 group-hover:scale-105"
-          unoptimized
-        />
-      ) : (
-        <div className="absolute inset-0 flex items-center justify-center text-4xl"
-          style={{ background: "var(--green-mid)" }}>
-          {cat?.icon || "🏥"}
-        </div>
-      )}
-    </div>
-  );
-
-  /* ── Featured: horizontal card ── */
+  /* ── Featured: big card with image top ── */
   if (featured) {
     return (
-      <Link href={`/artikel/${article.slug}`} className="card block group overflow-hidden">
-        <div className="flex" style={{ minHeight: 110 }}>
-          <div className="relative w-36 shrink-0 overflow-hidden bg-gray-100">
-            {article.image?.startsWith("http") ? (
-              <Image src={article.image} alt={article.title} fill sizes="144px"
-                className="object-cover group-hover:scale-105 transition-transform duration-300" unoptimized />
-            ) : (
-              <div className="absolute inset-0 flex items-center justify-center text-3xl"
-                style={{ background: "var(--green-mid)" }}>{cat?.icon}</div>
-            )}
-          </div>
-          <div className="p-3.5 flex flex-col justify-between flex-1 min-w-0">
-            <div>
-              <span className="badge badge-green text-[10px] mb-1.5 inline-block">{cat?.label}</span>
-              <h2 className="text-xs font-bold leading-snug line-clamp-2 group-hover:text-green-700 transition-colors"
-                style={{ color: "var(--text-primary)" }}>
-                {article.title}
-              </h2>
-              <p className="text-[11px] mt-1 line-clamp-2 leading-relaxed" style={{ color: "var(--text-secondary)" }}>
-                {article.excerpt}
-              </p>
+      <Link href={`/artikel/${article.slug}`} className="featured-card-link group">
+        {/* Image */}
+        <div style={{ position: "relative", height: 240, overflow: "hidden" }}>
+          {article.image?.startsWith("http") ? (
+            <Image src={article.image} alt={article.title} fill sizes="700px"
+              className="object-cover group-hover:scale-105 transition-transform duration-500" unoptimized />
+          ) : (
+            <div style={{ width: "100%", height: "100%", display: "flex", alignItems: "center", justifyContent: "center", fontSize: "4rem", background: "var(--green-mint)" }}>
+              {cat?.icon}
             </div>
-            <p className="text-[11px] mt-2 flex items-center gap-1" style={{ color: "var(--text-muted)" }}>
-              <Clock className="w-3 h-3" />{article.readTime}
-            </p>
+          )}
+          <div style={{ position: "absolute", top: 14, left: 14, background: "var(--green)", color: "white", fontSize: "0.7rem", fontWeight: 700, letterSpacing: ".5px", padding: "4px 12px", borderRadius: 50 }}>
+            {cat?.icon} {cat?.label?.toUpperCase()}
+          </div>
+        </div>
+        {/* Body */}
+        <div style={{ padding: 18 }}>
+          <h2 style={{ fontFamily: "'Lora', serif", fontSize: "1.25rem", fontWeight: 700, lineHeight: 1.35, marginBottom: 8, color: "var(--dark)" }}
+            className="group-hover:text-green-700 transition-colors">
+            {article.title}
+          </h2>
+          <p style={{ color: "var(--soft)", fontSize: "0.87rem", lineHeight: 1.6, marginBottom: 14 }}>
+            {article.excerpt}
+          </p>
+          <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between", fontSize: "0.78rem", color: "var(--soft)", marginBottom: 14 }}>
+            <div style={{ display: "flex", alignItems: "center", gap: 6, fontWeight: 600, color: "var(--mid)" }}>
+              <div style={{ width: 26, height: 26, borderRadius: "50%", background: "var(--green-mint)", display: "flex", alignItems: "center", justifyContent: "center", fontSize: ".9rem" }}>✍️</div>
+              {article.author}
+            </div>
+            <span>⏱ {article.readTime}</span>
+          </div>
+          <div className="btn-read">Pelajari Selengkapnya →</div>
+          <div style={{ display: "flex", alignItems: "center", gap: 6, fontSize: "0.75rem", color: "var(--soft)", marginTop: 10 }}>
+            🩺 Ditinjau oleh <span style={{ color: "var(--green)", fontWeight: 600 }}>{article.author}</span>
           </div>
         </div>
       </Link>
     );
   }
 
-  /* ── Standard: vertical card (Healthline style) ── */
+  /* ── Standard: horizontal card ── */
   return (
-    <Link href={`/artikel/${article.slug}`} className="card block group overflow-hidden">
-
-      {/* Image 16:9 */}
-      <div className="relative overflow-hidden bg-gray-100" style={{ paddingTop: "56.25%" }}>
+    <Link href={`/artikel/${article.slug}`} className="article-card-link group">
+      {/* Thumbnail */}
+      <div style={{ width: 120, flexShrink: 0, position: "relative", overflow: "hidden" }}>
         {article.image?.startsWith("http") ? (
-          <Image src={article.image} alt={article.title} fill sizes="320px"
+          <Image src={article.image} alt={article.title} fill sizes="120px"
             className="object-cover group-hover:scale-105 transition-transform duration-300" unoptimized />
         ) : (
-          <div className="absolute inset-0 flex items-center justify-center text-4xl"
-            style={{ background: "var(--green-mid)" }}>{cat?.icon || "🏥"}</div>
+          <div style={{ position: "absolute", inset: 0, display: "flex", alignItems: "center", justifyContent: "center", fontSize: "2rem", background: "var(--green-mint)" }}>
+            {cat?.icon || "🏥"}
+          </div>
         )}
       </div>
 
       {/* Body */}
-      <div className="p-3.5">
-        <div className="flex items-center gap-1.5 mb-2 flex-wrap">
-          <span className="badge badge-green text-[10px]">{cat?.label}</span>
-          <span className="badge badge-review text-[10px]">✓ Ditinjau</span>
+      <div style={{ padding: 14, flex: 1, display: "flex", flexDirection: "column", justifyContent: "space-between", minWidth: 0 }}>
+        <div>
+          <span className={`badge ${cls}`} style={{ marginBottom: 6, display: "inline-block" }}>{cat?.icon} {cat?.label}</span>
+          <h3 style={{ fontFamily: "'Lora', serif", fontSize: "0.92rem", fontWeight: 600, lineHeight: 1.35, color: "var(--dark)", marginBottom: 6 }}
+            className="line-clamp-2 group-hover:text-green-700 transition-colors">
+            {article.title}
+          </h3>
+          <p className="line-clamp-2" style={{ fontSize: "0.78rem", color: "var(--soft)", lineHeight: 1.5, marginBottom: 8 }}>
+            {article.excerpt}
+          </p>
         </div>
-        <h3 className="font-bold text-sm leading-snug mb-1.5 line-clamp-2 group-hover:text-green-700 transition-colors"
-          style={{ color: "var(--text-primary)" }}>
-          {article.title}
-        </h3>
-        <p className="text-xs line-clamp-2 mb-3 leading-relaxed" style={{ color: "var(--text-secondary)" }}>
-          {article.excerpt}
-        </p>
-        <div className="flex items-center justify-between text-xs" style={{ color: "var(--text-muted)" }}>
-          <span className="flex items-center gap-1"><Clock className="w-3 h-3" />{article.readTime}</span>
-          <span className="font-semibold" style={{ color: "var(--green-primary)" }}>Baca →</span>
+        <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between" }}>
+          <span style={{ fontSize: "0.72rem", color: "var(--soft)" }}>⏱ {article.readTime}</span>
+          <span style={{ fontSize: "0.78rem", fontWeight: 700, color: "var(--green)" }}>Baca →</span>
         </div>
       </div>
     </Link>

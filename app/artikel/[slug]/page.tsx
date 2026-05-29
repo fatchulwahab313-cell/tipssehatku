@@ -4,7 +4,8 @@ import Link from "next/link";
 import Image from "next/image";
 import AdSlot from "@/components/AdSlot";
 import AiSummary from "@/components/AiSummary";
-import { Clock, Calendar, ChevronRight, Tag, Printer } from "lucide-react";
+import PrintButton from "@/components/PrintButton";
+import { Clock, Calendar, ChevronRight, Tag } from "lucide-react";
 import type { Metadata } from "next";
 
 interface Props { params: Promise<{ slug: string }> }
@@ -110,10 +111,7 @@ export default async function ArticlePage({ params }: Props) {
                     <span className="flex items-center gap-1"><Calendar className="w-3 h-3" />{dateFormatted}</span>
                     <span className="flex items-center gap-1"><Clock className="w-3 h-3" />{article.readTime}</span>
                   </div>
-                  <button onClick={() => window.print()} className="flex items-center gap-1.5 text-xs font-medium px-3 py-1.5 rounded"
-                    style={{ border: "1px solid var(--border)", color: "var(--text-secondary)" }}>
-                    <Printer className="w-3.5 h-3.5" /> Cetak
-                  </button>
+                  <PrintButton />
                 </div>
 
                 {/* Intro / excerpt */}
